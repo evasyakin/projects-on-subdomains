@@ -1,0 +1,1 @@
+The admin service index
